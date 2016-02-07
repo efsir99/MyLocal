@@ -12,6 +12,13 @@ namespace MyConsoleGit
         {
             GetCurrentDate();
 
+            OtherMethodInDev();
+
+        }
+
+        private static void OtherMethodInDev()
+        {
+            throw new NotImplementedException();
         }
 
         private static void GetCurrentDate()
