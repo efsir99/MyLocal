@@ -10,6 +10,13 @@ namespace MyConsoleGit
     {
         static void Main(string[] args)
         {
+            GetCurrentDate();
+
+        }
+
+        private static void GetCurrentDate()
+        {
+            var currentDate = DateTime.Now;
         }
     }
 }
