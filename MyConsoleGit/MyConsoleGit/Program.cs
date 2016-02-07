@@ -12,12 +12,19 @@ namespace MyConsoleGit
         {
             GetCurrentDate();
 
+            OtherMethodInDev();
+
+        }
+
+        private static void OtherMethodInDev()
+        {
+            throw new NotImplementedException();
         }
 
         private static void GetCurrentDate()
         {
-            // This is mydev (TODAY)
-            var currentDate = DateTime.Today;
+            // This is dev (Now)
+            var currentDate = DateTime.Now;
         }
     }
 }
