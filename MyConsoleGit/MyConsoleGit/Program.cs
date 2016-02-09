@@ -25,6 +25,8 @@ namespace MyConsoleGit
         {
             // This is dev (Now), dev correction
             var curDate = DateTime.Now;
+
+            // This is anew code from dev
         }
     }
 }
