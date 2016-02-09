@@ -12,6 +12,7 @@ namespace MyConsoleGit
         {
             GetCurrentDate();
 
+            // Mydev branch
             OtherMethodInDev();
 
         }
