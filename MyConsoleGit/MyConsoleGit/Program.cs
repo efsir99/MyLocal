@@ -24,7 +24,7 @@ namespace MyConsoleGit
         private static void GetCurrentDate()
         {
             // This is dev (Now), dev correction
-            var curDate = DateTime.Now;
+            var currentDate = DateTime.Now;
 
             // This is anew code from dev
         }
