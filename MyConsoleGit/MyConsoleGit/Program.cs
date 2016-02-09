@@ -27,7 +27,7 @@ namespace MyConsoleGit
 
             var cur = DateTime.Today;
 
-            // This is anew code from dev
+            // This is a new code from dev
         }
     }
 }
